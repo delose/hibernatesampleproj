@@ -1,0 +1,2 @@
+# hibernatesampleproj
+hibernate sample project
